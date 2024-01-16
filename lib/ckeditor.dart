@@ -1,0 +1,2 @@
+library ckeditor5;
+
